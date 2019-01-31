@@ -10,7 +10,7 @@
 ## CRUZIMEX
 
 Somos estudiantes de la UPSA realizando un proyecto para la empresa Cruzimex, los integrantes somos: 
-- Bejarano Paz Hillary
-- Hurtado Moreno Katherine
+- Bejarano Hillary
+- Hurtado Katherine
 - Ichazo Fabio
 - Rodriguez Luis Fernando 
