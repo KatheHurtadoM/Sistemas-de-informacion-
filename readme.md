@@ -11,6 +11,6 @@
 
 Somos estudiantes de la UPSA realizando un proyecto para la empresa Cruzimex, los integrantes somos: 
 - Bejarano Paz Hillary
--Hurtado Moreno Katherine
--Ichazo Fabio
--Rodriguez Luis Fernando 
+- Hurtado Moreno Katherine
+- Ichazo Fabio
+- Rodriguez Luis Fernando 
